@@ -2,10 +2,13 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=layton)](https://solved.ac/layton)
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=spring&logoColor=white"/>
+#####Skills
+<div>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+</div>
 
 <!--
 **ZeVicTech/ZeVicTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
